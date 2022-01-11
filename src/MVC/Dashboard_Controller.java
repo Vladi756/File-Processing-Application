@@ -42,5 +42,4 @@ public class Dashboard_Controller {
 	public static void main(final String[] args) {
 		SwingUtilities.invokeLater(() -> launch());
 	}
-
 }
